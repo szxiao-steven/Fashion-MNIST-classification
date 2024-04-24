@@ -71,7 +71,7 @@ dataloaders_kwargs = {
 * 指定模型权重文件的路径，例如：
 
 ```python
-ckpt_path = "models/final_model.pkl"
+model_path = "models/final_model.pkl"
 ```
 
 运行`test.py`即可即可完成测试集评测。
